@@ -1,4 +1,4 @@
-# PyUGAT Coding Dojo {{ cookiecutter.now }}
+# PyUGAT Coding Dojo
 
 def solve(a, b):
     return a + b
